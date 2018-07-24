@@ -17,6 +17,10 @@ int main()
 #elif defined I_OS_WIN32
 
 	cout<<"this is windows"<<endl;
+	
+#elif defined I_OS_CYGWIN
+
+	cout<<"this is cygwin"<<endl;
 
 #elif defined I_OS_SOLARIS
 
@@ -36,7 +40,7 @@ int main()
 
 #elif defined I_OS_AIX
 
-	cout<<"this is AIX"<<endl;
+	cout<<"this is aix"<<endl;
 
 #else
 
