@@ -22,6 +22,14 @@ http://blog.csdn.net/itas109
 
 https://github.com/itas109
 
+---
+# Result
+
+## linux
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/linux.png)
+
+## windows
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/windows.png)
 
 ---
 
