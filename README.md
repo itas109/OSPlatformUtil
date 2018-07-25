@@ -25,11 +25,18 @@ https://github.com/itas109
 ---
 # Result
 
-## linux
-![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/linux.png)
+## ubuntu
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/unbuntu.jpg)
+
+## centos
+
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/centos.jpg)
 
 ## windows
-![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/windows.png)
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/windows.jpg)
+
+## MAC
+![image](https://github.com/itas109/OSPlatformUtil/blob/master/img/mac.jpg)
 
 ---
 

@@ -8,7 +8,7 @@ int main()
 {
 #if defined I_OS_MAC
 
-	cout<<"this is linux"<<endl;
+	cout<<"this is MAC"<<endl;
 
 #elif defined I_OS_ANDROID
 
